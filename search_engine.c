@@ -3,6 +3,7 @@
 #include <string.h>
 #include <math.h>
 #include <time.h>
+#include <ctype.h>        // ← ADD THIS LINE
 #include "documents.h"
 #include "bst.h"
 
